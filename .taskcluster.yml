@@ -20,10 +20,8 @@ tasks:
         - ['tooltool_client', '310',            '${client_setup_3}', '']
         - ['tooltool_client', '311',            '${client_setup_3}', '']
         - ['tooltool_client', '312',            '${client_setup_3}', '']
-        - ['tooltool_api',    '38',             '${api_setup}',      'mozilla/releng-tooltool']
-        - ['tooltool_api',    '39',             '${api_setup}',      '']
-        - ['tooltool_api',    '310',            '${api_setup}',      '']
-        - ['tooltool_api',    '311',            '${api_setup}',      '']
+        - ['tooltool_api',    '311',            '${api_setup}',      'mozilla/releng-tooltool']
+        - ['tooltool_api',    '312',            '${api_setup}',      '']
     # -------------------------------------------------------------------------
 
     HEAD_REV:
